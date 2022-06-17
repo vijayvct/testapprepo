@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = demoapp
+build_property.ProjectDir = c:\Demos\Azure Fundamentals-June2022\demoapp\

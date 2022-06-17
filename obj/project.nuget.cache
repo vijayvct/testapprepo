@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Jn6t2ZeFf9u4Mz7CwTnCYfqsc59EBeeZVSthx6HirWnA4sCtPIz9A7unvGmoJZOxj320stqEjhDNcR4qvcm1w==",
+  "success": true,
+  "projectFilePath": "C:\\Demos\\Azure Fundamentals-June2022\\demoapp\\demoapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vijayv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
